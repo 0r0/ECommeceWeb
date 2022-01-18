@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ECommerceWeb.Application", "ECommerceWeb.Application", "{575E7755-12D9-4C79-89CA-289DD7E11029}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ECommerceWeb.InFrastracture.IoC", "ECommerceWeb.InFrastracture.IoC", "{84437EDD-86CA-4C79-ABD0-E3070D7C7F02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ECommerceWeb.Infrastructure.Data", "ECommerceWeb.Infrastructure.Data", "{4BF0758C-90B0-4EF3-8361-A7CBD8B6060A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ECommerceWeb.Domain", "ECommerceWeb.Domain", "{F633EA7C-FBCA-4F11-B92F-390F893BEC44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ECommerceWeb.UI", "ECommerceWeb.UI", "{287E20F9-E926-4043-9BA9-9989446793A3}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
